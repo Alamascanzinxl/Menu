@@ -1,4 +1,4 @@
-# Menu
+# PAINEL DA COLMEIA 
 
 Bem-vindo à Colmeia, onde a tecnologia encontra preços irresistíveis! 
 Descubra um mundo de produtos obscuros e descontos incríveis.
