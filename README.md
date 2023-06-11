@@ -28,7 +28,7 @@
 
 - [ ] Consulta RG
 
-<h2>align="center">🛍️Comprar Painel</h2>
+<h2>🛍️Comprar Painel</h2>
 
 <p>Para encontrar mais informações sobre o painel entre em contato comigo:</p>
 
