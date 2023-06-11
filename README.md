@@ -1,4 +1,4 @@
-#   PAINEL-COLMEIA🌻🪙
+#   COLMEIA-PAINEL🌻🪙
 
 ![Descrição da Imagem](6d0f30ed15f74a62ed7bad5b50a8c59a.jpg)
 
@@ -35,7 +35,7 @@
 LINK DO TELEGRAM ## 🐦: 
 **https://t.me/Alamascanzin**
 
-<p><b>**TEMOS OUTROS PRODUTOS COMO CURSOS,MÉTODOS</b></p>
+<p><b>**TEMOS OUTROS PRODUTOS COMO CURSOSMÉTODOS</b></p>
 
 
 
