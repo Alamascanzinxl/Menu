@@ -35,7 +35,7 @@
 LINK DO TELEGRAM ## 🐦: 
 **https://t.me/Alamascanzin**
 
-<p><b>**TEMOS OUTROS PRODUTOS COMO CURSOSMÉTODOS</b></p>
+
 
 
 
