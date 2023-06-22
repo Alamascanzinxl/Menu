@@ -1,8 +1,6 @@
-#   COLMEIA-PAINEL🌻🪙
-
 ![Descrição da Imagem](IMG-20230622-WA0133.jpg)
 
-<h1><b>A COLMEIA🌻</b></h1>
+#   COLMEIA-PAINEL🌻🪙
 
 <p><b>A COLMEIA🌻 é um grupo dedicado a oferecer a você um serviço de painel de consulta fácil e rápido! Nosso principal objetivo é disponibilizar uma ferramenta que permita acessar informações de forma fácil e amigável😉.</b></p>
 
