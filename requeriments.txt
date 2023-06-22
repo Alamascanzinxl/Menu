@@ -1,0 +1,5 @@
+requests==2.26.0
+os
+time
+art==5.4
+pyfiglet==0.8.post1
