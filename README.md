@@ -1,6 +1,6 @@
 #   COLMEIA-PAINEL🌻🪙
 
-![Descrição da Imagem](6d0f30ed15f74a62ed7bad5b50a8c59a.jpg)
+![Descrição da Imagem](IMG-20230622-WA0133.jpg)
 
 <h1><b>A COLMEIA🌻</b></h1>
 
